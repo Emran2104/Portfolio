@@ -8,6 +8,7 @@
       <template #center>
           <LayoutHeaderLinks />
       </template>
+      Test
     </UHeader>
 </template>
 
